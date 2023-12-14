@@ -2,6 +2,7 @@
 
 ## Metasploit in Kali Linux: A Beginner's Guide
 
+
 **Welcome, young Padawan!** Metasploit, pre-installed in Kali Linux, is a powerful **penetration testing framework** used by security professionals and enthusiasts alike. But for beginners, it can be daunting. Fear not, this guide will break it down into bite-sized pieces.
 
 **What is Metasploit?**
